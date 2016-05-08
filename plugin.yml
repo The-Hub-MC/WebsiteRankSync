@@ -1,0 +1,13 @@
+name: WebsiteRankings
+version: BETA 1.0
+author: Jacksonnn
+main: com.TheHubMC.WebsiteRankings.WebsiteRankings
+loadbefore: [PermissionsEX]
+commands:
+  websiteranks:
+    aliases: [thmc, thehubmc]
+permissions:
+  websiteranks.admin:
+    default: op
+    children:
+      websiteranks.sync: true
