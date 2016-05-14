@@ -1,0 +1,5 @@
+name: WebsiteRank
+version: BETA 1.0
+authors: [Jacksonnn, Simplicitee]
+main: com.TheHubMC.WebsiteRank.WebsiteRank
+loadbefore: [PermissionsEX]
