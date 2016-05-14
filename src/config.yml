@@ -1,0 +1,8 @@
+Storage:
+  engine: mysql
+  MySQL:
+    user: root
+    pass: ''
+    port: 3306
+    db: minecraft
+    host: localhost
